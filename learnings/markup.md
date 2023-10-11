@@ -2,8 +2,7 @@
 
 Code includes various semantic elements such as `<section>`, `<ul>`, `<label>`, `<input>` and others. Code also utilises headings in correct order as well as makes use of tabindex to aid accessibility.
 
-![](https://hackmd.io/_uploads/SysO1l7-6.png)
-
+![screenshot accessibility](https://github.com/oskarprzybylski23/portfolio/assets/97399953/d266345f-f42e-4f3f-99ac-847e493bdf7e)
 
 ## 2. Ensure a web page is readable for screen readers
 
@@ -19,8 +18,7 @@ Contrast has been tested using [coloors contrast checker](https://coolors.co/con
 
 Media queries were utilised to ensure correct display of content on various devices.
 
-![](https://hackmd.io/_uploads/r1UxYBVb6.png)
-
+![screenshot media-queries](https://github.com/oskarprzybylski23/portfolio/assets/97399953/0d1a5a55-6c26-49a8-bba3-6e23d76d85b0)
 
 ## 6. Demonstrate a mobile-first approach to building a website
 
@@ -28,25 +26,24 @@ Media queries were utilised to ensure correct display of content on various devi
 
 Global variables were utilised to create a colour palette.
 
-![](https://hackmd.io/_uploads/SyBTYHVWT.png)
+![screenshot variables](https://github.com/oskarprzybylski23/portfolio/assets/97399953/fddf9475-f3c5-4479-9af5-925d8d4138fb)
 
 ## 8. Use CSS Flexbox to style children in a single-direction layout (ie a row or a column)
 
-![](https://hackmd.io/_uploads/HkglsBEW6.png)
-
+![screenshot flexbox](https://github.com/oskarprzybylski23/portfolio/assets/97399953/6705e377-1bc3-4bce-a2d7-5145016fe292)
 
 ## 9. Use CSS Grid to style children in two-direction layout
 
-![](https://hackmd.io/_uploads/BJrHsBVZp.png)
+![screenshot grid](https://github.com/oskarprzybylski23/portfolio/assets/97399953/21fcc1f9-5260-44c1-a0e9-d35598d4092c)
 
 ## 10. Ensure our Git commit history tells a coherent story
 
 Commit messages were kept clear and descriptive to allow to identify changes that were made. It was avoided to commit too many changes at once and small, frequent commits were preferred.
 
-![](https://hackmd.io/_uploads/S1k9iBNZT.png)
+![screenshot git history](https://github.com/oskarprzybylski23/portfolio/assets/97399953/c26cc24b-18de-42df-806a-392813ca629b)
 
 ## 11. Use the appropriate input types in HTML forms for gathering different types of information
 
 Input fields were assigned relevant ```type``` attribute.
 
-![](https://hackmd.io/_uploads/Syu12SEWT.png)
+![screenshot inputs](https://github.com/oskarprzybylski23/portfolio/assets/97399953/03bf6375-620f-4abc-b5c3-815e9e42f1f9)
